@@ -3,4 +3,4 @@ Below is a couple of samples of my work:
   - http://applefacts.marceiapdev.com/
   - http://sweetytreats.marceiapdev.com/
 
-You can also contact me by email at marceiapdev@gmail.com.
+If you'd like for me to work with you on your next web project, shoot me an email at marceiapdev@gmail.com
